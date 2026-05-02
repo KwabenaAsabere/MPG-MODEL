@@ -8,6 +8,8 @@ editor: visual
 library(plumber)
 library(vetiver)
 library(pins)
+library(tidymodels)
+library(ranger)
 
 board <- board_folder("model")
 
