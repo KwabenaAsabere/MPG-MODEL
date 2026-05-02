@@ -1,0 +1,17 @@
+file: car-mpg-model.rds
+file_size: 32943
+pin_hash: c4b8223b5df37779
+type: rds
+title: 'car-mpg-model: a pinned list'
+description: A ranger regression modeling workflow
+tags: ~
+urls: ~
+created: 20260502T205307Z
+api_version: 1
+user:
+  required_pkgs:
+  - parsnip
+  - ranger
+  - recipes
+  - workflows
+  renv_lock: ~
